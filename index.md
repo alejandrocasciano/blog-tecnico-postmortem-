@@ -1,4 +1,4 @@
-Trabajo en un equipo que se encarga de que la parte de "pagar" de una tienda online funcione siempre. el checkout
+trabajo en un equipo que se encarga de que la parte de "pagar" de una tienda online funcione siempre. el checkout
 Un día tuvimos una gran campaña de descuentos, con mucha más gente comprando de lo normal.
 
 El problema
