@@ -25,7 +25,7 @@ Apenas se calmó la situación, nos juntamos como equipo a analizar qué pasó. 
 
 ## Evidencia de los cambios realizados
 
-- Cambios en el código: *(acá va el enlace a los commits)*
+- Cambios en el código: https://github.com/alejandrocasciano/blog-tecnico-postmortem-/commits/main/
 - Revisión de esos cambios: *(acá va el enlace al Pull Request)*
 
 ## Reflexión sobre la honestidad al dar feedback
