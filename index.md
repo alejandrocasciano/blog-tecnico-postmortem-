@@ -1,14 +1,12 @@
-# Cuando la memoria se acaba: la historia de una caída en el checkout
-
 ## Contexto
 
-Trabajo en un equipo que se encarga de que la parte de "pagar" de una tienda online funcione siempre. A esta parte le decimos "checkout".
-Un día tuvimos una gran campaña de descuentos, con mucha más gente comprando de lo normal.
+Trabajo en un equipo que se encarga de que la parte del checkout de una tienda online funcione siempre.
+Un día tuvimos una gran campaña de descuentos, con mucha más gente comprando de lo normal y surgio un problema.
 
 ## El problema
 
 A las pocas horas de empezar la campaña, algunos usuarios no podían terminar de pagar: la página se quedaba trabada o mostraba un error.
-Al revisar, vimos que el sistema que procesa los pagos se iba quedando sin memoria (como cuando a una computadora "le falta espacio" y empieza a ir lenta) y se reiniciaba solo cada tanto. Esto pasaba justo en el momento de más ventas del mes, así que perdimos compras y usuarios enojados.
+Al revisar, vimos que el sistema que procesa los pagos se iba quedando sin memoria como cuando a una computadora "le falta espacio" y empieza a ir lenta y se reiniciaba solo cada tanto. Esto pasaba justo en el momento de más ventas del mes, así que perdimos compras y usuarios enojados.
 
 ## Qué hicimos
 
@@ -21,7 +19,7 @@ Apenas se calmó la situación, nos juntamos como equipo a analizar qué pasó. 
 
 ## Qué aprendimos
 
-- Este tipo de errores (que la memoria se llene de a poco) es difícil de ver a simple vista, así que ahora lo revisamos con más cuidado antes de lanzar cambios nuevos.
+- Este tipo de errores que la memoria se llene de a poco, es difícil de ver a simple vista, así que ahora lo revisamos con más cuidado antes de lanzar cambios nuevos.
 - Es mejor tener avisos tempranos que esperar a que algo falle.
 - Analizar los errores en equipo, sin culpar a nadie, ayuda a encontrar mejores soluciones y a que todos se animen a hablar con honestidad sobre lo que salió mal.
 
